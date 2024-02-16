@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welsh.Playgrounds.RabbitMQ.Producer", "Welsh.RabbitMQ.Producer\Welsh.Playgrounds.RabbitMQ.Producer.csproj", "{2DA9D271-9D68-45F2-BC16-3713E5F8E385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welsh.Playgrounds.RabbitMQ.Consumer", "Welsh.Playgrounds.RabbitMQ.Consumer\Welsh.Playgrounds.RabbitMQ.Consumer.csproj", "{5529BE29-5A04-46BE-A16F-2100292D7657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA9D271-9D68-45F2-BC16-3713E5F8E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA9D271-9D68-45F2-BC16-3713E5F8E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA9D271-9D68-45F2-BC16-3713E5F8E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA9D271-9D68-45F2-BC16-3713E5F8E385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5529BE29-5A04-46BE-A16F-2100292D7657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5529BE29-5A04-46BE-A16F-2100292D7657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5529BE29-5A04-46BE-A16F-2100292D7657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5529BE29-5A04-46BE-A16F-2100292D7657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43606CD5-CB77-4FD6-B738-12489CD2F87E}
+	EndGlobalSection
+EndGlobal
