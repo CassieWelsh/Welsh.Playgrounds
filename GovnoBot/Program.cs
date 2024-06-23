@@ -82,6 +82,7 @@ while (true)
                             RandomId = 0,
                             Message = "Оплата прошла успешно"
                         });
+                        currentState = BotStates.Default;
                         break;
                     default:
                         break;
